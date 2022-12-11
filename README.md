@@ -18,3 +18,5 @@ This is a repository where I publish my studies with Tableau.
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/81119854/206909716-aa0daa63-38d7-4cfd-bc4a-8e8d66e7610c.png">
 
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/81119854/206924715-9b4cc9ed-0109-4e4d-aaa8-1109f049ce51.png">
+
+<img width="1573" alt="image" src="https://user-images.githubusercontent.com/81119854/206924927-6e0216b3-bb8b-4d82-a1a4-e0074bdcf090.png">
