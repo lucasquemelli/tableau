@@ -1,7 +1,7 @@
 # tableau
 This is a repository where I publish my studies with Tableau.
 
-This the link for the [Dashboard number 1](https://public.tableau.com/app/profile/lucas.quemelli/viz/Livro07_16707905911710/DashboardMedalhas?publish=yes)
+This link is for the [Dashboard number 1.](https://public.tableau.com/app/profile/lucas.quemelli/viz/Livro07_16707905911710/DashboardMedalhas?publish=yes)
 
 -
 -
