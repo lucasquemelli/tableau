@@ -24,3 +24,5 @@ This the link for the [Dashboard number 1](https://public.tableau.com/app/profil
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/81119854/206924715-9b4cc9ed-0109-4e4d-aaa8-1109f049ce51.png">
 
 <img width="1573" alt="image" src="https://user-images.githubusercontent.com/81119854/206924927-6e0216b3-bb8b-4d82-a1a4-e0074bdcf090.png">
+
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/81119854/207054623-27de8a73-c338-45a8-a13f-8f169196d94d.png">
