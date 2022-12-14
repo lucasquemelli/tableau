@@ -43,3 +43,9 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="1781" alt="image" src="https://user-images.githubusercontent.com/81119854/207620561-3c6bf3e4-fd18-412f-93c1-c64adfcc7713.png">
 
 <img width="1583" alt="image" src="https://user-images.githubusercontent.com/81119854/207620688-825c0b50-271c-48f7-b3b1-67a8ca715fa3.png">
+
+-
+-
+- Para corrigir o problema de valores nulos na coluna Region, nós criamos um novo campo chamado Region Resolvida, da seguinte forma:
+
+<img width="1418" alt="image" src="https://user-images.githubusercontent.com/81119854/207685834-2d88c531-1bd3-46ad-a114-a10cb86df2f3.png">
