@@ -63,6 +63,13 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 # Corrigindo valores nulos
 
-- Para corrigir o problema de valores nulos na coluna Region, nós criamos um novo campo chamado Region Resolvida, da seguinte forma:
+#### Para corrigir o problema de valores nulos na coluna Region, nós criamos um novo campo chamado Region Resolvida, da seguinte forma:
+
+- Adicionando um novo parâmetro de número 8:
+
+<img width="595" alt="image" src="https://user-images.githubusercontent.com/81119854/207688352-1c248772-d372-4733-a3e7-77e577bf4c2e.png">
+
+- Criando o campo Region Resolvida:
 
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/81119854/207686121-1e12110a-5e15-4dd3-88d6-f902fda1f9b7.png">
+
