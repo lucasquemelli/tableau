@@ -15,25 +15,45 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1576" alt="image" src="https://user-images.githubusercontent.com/81119854/206908402-c855aba5-ec8e-4f5c-9907-dad88b4a7f56.png">
 
+# Classificar/Ordenar no Tableau
+
 <img width="1579" alt="image" src="https://user-images.githubusercontent.com/81119854/206908568-7ce17415-9a58-4838-8bdd-b54927146311.png">
+
+# Filtrar os 05 países com o maior número de medalhas
 
 <img width="1580" alt="image" src="https://user-images.githubusercontent.com/81119854/206908729-c1561ed0-a155-4610-b654-820dffd981ef.png">
 
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/81119854/206909716-aa0daa63-38d7-4cfd-bc4a-8e8d66e7610c.png">
 
+# Escolhendo tipo DISCRETO para os valores do ano
+
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/81119854/206924715-9b4cc9ed-0109-4e4d-aaa8-1109f049ce51.png">
 
 <img width="1573" alt="image" src="https://user-images.githubusercontent.com/81119854/206924927-6e0216b3-bb8b-4d82-a1a4-e0074bdcf090.png">
+
+# Criando campo calculado 
 
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/81119854/207054623-27de8a73-c338-45a8-a13f-8f169196d94d.png">
 
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/81119854/207055921-ee03fdd4-5da3-426e-9e56-308c65f0d788.png">
 
+# Criando parâmetro
+
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/81119854/207419854-6b21ba17-0b68-446e-8763-1c6ec122a853.png">
+
+# Mostrando parâmetro
 
 <img width="1767" alt="image" src="https://user-images.githubusercontent.com/81119854/207420182-f3b0e332-834e-4f7d-957e-c47e4e849555.png">
 
+# Identificando valores nulos
+
 <img width="1421" alt="image" src="https://user-images.githubusercontent.com/81119854/207618164-43789a01-a750-4362-a3f5-3fd847a11718.png">
+
+# Identificando o percentual de nulos
+
+<img width="979" alt="image" src="https://user-images.githubusercontent.com/81119854/207687767-c4f2f67e-9aa6-496a-badf-34cd3e3552de.png">
+
+# Mudando dimensão do percentual para porcentagem
 
 <img width="1580" alt="image" src="https://user-images.githubusercontent.com/81119854/207620282-071c904b-bfc1-4cad-9da7-9053bcc0dcf0.png">
 
