@@ -3,10 +3,7 @@ This is a repository where I publish my studies with Tableau.
 
 This link is for the [Dashboard number 1](https://public.tableau.com/app/profile/lucas.quemelli/viz/Livro07_16707905911710/DashboardMedalhas?publish=yes).
 
--
--
--
--
+# Exploração
 
 <img width="1574" alt="image" src="https://user-images.githubusercontent.com/81119854/206906916-b1cf3490-8e81-4715-a766-c2891c3302c3.png">
 
@@ -44,8 +41,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1583" alt="image" src="https://user-images.githubusercontent.com/81119854/207620688-825c0b50-271c-48f7-b3b1-67a8ca715fa3.png">
 
--
--
+# Corrigindo valores nulos
+
 - Para corrigir o problema de valores nulos na coluna Region, nós criamos um novo campo chamado Region Resolvida, da seguinte forma:
 
-<img width="1418" alt="image" src="https://user-images.githubusercontent.com/81119854/207685834-2d88c531-1bd3-46ad-a114-a10cb86df2f3.png">
+<img width="1420" alt="image" src="https://user-images.githubusercontent.com/81119854/207686121-1e12110a-5e15-4dd3-88d6-f902fda1f9b7.png">
