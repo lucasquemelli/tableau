@@ -73,6 +73,10 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/81119854/207686121-1e12110a-5e15-4dd3-88d6-f902fda1f9b7.png">
 
+- Caso queiramos contruir o Campo de Region Resolvida de forma simplificada, podemos usar o Excel da seguinte maneira para segurar e arrastar:
+
+<img width="1661" alt="image" src="https://user-images.githubusercontent.com/81119854/207712568-9cbfacea-b3f1-41fe-ac7d-47afad3de227.png">
+
 # Descobrindo o dado nulo
 
 - Note que na imagem anterior ainda não temos 100% dos dados para Region Resolvida iguais a "linhas com valores". Ainda resta algum registro nulo. Para identificar, basta fazer uma visão que retorne os valores de Region Resolvida por país. Na sequência, podemos adicionar como Marcas o número de registros (Number of records). Assim, identificamos o país que Region Resolvida é nulo. 
