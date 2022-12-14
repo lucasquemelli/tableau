@@ -73,3 +73,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/81119854/207686121-1e12110a-5e15-4dd3-88d6-f902fda1f9b7.png">
 
+# Descobrindo o dado nulo
+
+- Note que na imagem anterior ainda não temos 100% dos dados para região com valores. Ainda resta algum registro nulo. Para identificar, basta fazer uma visão que retorne os valores de Region Resolvida por país. Assim, identificamos o país que Region Resolvida é nulo. 
+
+<img width="1419" alt="image" src="https://user-images.githubusercontent.com/81119854/207709891-2320b957-7e70-4253-92d7-f6dca79374f8.png">
