@@ -78,3 +78,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Note que na imagem anterior ainda não temos 100% dos dados para Region Resolvida iguais a "linhas com valores". Ainda resta algum registro nulo. Para identificar, basta fazer uma visão que retorne os valores de Region Resolvida por país. Na sequência, podemos adicionar como Marcas o número de registros (Number of records). Assim, identificamos o país que Region Resolvida é nulo. 
 
 <img width="1419" alt="image" src="https://user-images.githubusercontent.com/81119854/207709891-2320b957-7e70-4253-92d7-f6dca79374f8.png">
+
+- Basta pesquisar onde se encontra a região e adicionar manualmente no campo Region Resolvida:
+
+<img width="1049" alt="image" src="https://user-images.githubusercontent.com/81119854/207711115-2ee7f587-9e99-478f-8c87-79022a9b350b.png">
