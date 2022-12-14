@@ -82,3 +82,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Basta pesquisar onde se encontra a região e adicionar manualmente no campo Region Resolvida:
 
 <img width="1049" alt="image" src="https://user-images.githubusercontent.com/81119854/207711115-2ee7f587-9e99-478f-8c87-79022a9b350b.png">
+
+- Resultado:
+
+<img width="1580" alt="image" src="https://user-images.githubusercontent.com/81119854/207711325-532116cc-1af6-43e3-b816-401ceceb58fa.png">
