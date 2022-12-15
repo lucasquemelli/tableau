@@ -125,7 +125,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/81119854/207881788-a367d33b-0095-4a34-b66f-567f5eaa254a.png">
 
-- Para tanto, criamos uma fórmula que busca o segundo elemento de uma cadeia de caracteres e exibe ele (comprimento 1). Depois, convertemos esse valor para inteiro. Se o resultado for verdadeiro, então a fórmula retorna um número. Se for falso, então retorna NULO. 
+- Para tanto, criamos uma fórmula que busca o segundo elemento de uma cadeia de caracteres e exibe ele (comprimento 1). Depois, convertemos esse valor para inteiro. Se o resultado for de fato um inteiro, então a fórmula retorna um número. Se não for, então retorna NULO. 
 
 <img width="876" alt="image" src="https://user-images.githubusercontent.com/81119854/207882092-a8a8777a-ccc7-459c-84e9-2e98e624b3c0.png">
 
