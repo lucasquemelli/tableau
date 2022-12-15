@@ -115,3 +115,10 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1524" alt="image" src="https://user-images.githubusercontent.com/81119854/207875698-c8c563bc-596c-490e-83c7-c57721cd2bfe.png">
 
+4. Agora vamos criar um campo chamado DX. Nele, capturamos apenas o primeiro elemento de cada linha:
+
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/81119854/207878590-98e3f1fc-d718-422f-80a6-29f692a621c0.png">
+
+- Assim, conseguimos identificar se o primeiro elemento se trata de um número realmente (como esperado).
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/81119854/207878356-6953a87b-257a-42cc-953d-bf417473d437.png">
