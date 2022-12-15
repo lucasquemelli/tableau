@@ -159,6 +159,13 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 # Criando campo calculado com regex para extrair número de telefone
 
-<img width="875" alt="image" src="https://user-images.githubusercontent.com/81119854/207932245-8e6434d7-c873-47e3-8bb7-80c78785cf21.png">
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/81119854/207933079-ad56d722-99cf-4797-bd8b-e5f5fa3bbe15.png">
 
 <img width="857" alt="image" src="https://user-images.githubusercontent.com/81119854/207932315-d9590e85-4f1b-4da2-92ac-b34a20180fbe.png">
+
+# Criando campo calculado com regex para extrair e-mail
+
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/81119854/207933496-fc439977-c657-4fbc-94a4-43e136c7873d.png">
+
+<img width="1369" alt="image" src="https://user-images.githubusercontent.com/81119854/207933551-a9166b87-be21-44c9-a529-136dfbcd7bd5.png">
+
