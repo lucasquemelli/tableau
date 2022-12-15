@@ -146,3 +146,9 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="999" alt="image" src="https://user-images.githubusercontent.com/81119854/207886002-e23ec9a1-2a64-4000-8932-a67ef16d6d1a.png">
 
 <img width="769" alt="image" src="https://user-images.githubusercontent.com/81119854/207886078-eb7c6e2a-bca1-46d1-8d45-dedb4f1939de.png">
+
+7. Agoramos vamos separar o texto do código. Para isso, basta criar um campo novo (Diagnosis Text), onde substituímos o código + espaço pelo caracter vazio dentro da coluna Diagnosis.
+
+<img width="875" alt="image" src="https://user-images.githubusercontent.com/81119854/207887012-ffbc175e-b5ad-42d0-baa4-1f609d0524e8.png">
+
+<img width="1445" alt="image" src="https://user-images.githubusercontent.com/81119854/207887464-026d2d2a-5381-45b9-9632-8563f221c76f.png">
