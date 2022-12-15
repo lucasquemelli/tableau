@@ -132,3 +132,5 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/81119854/207883537-787b14eb-4269-49c9-8609-6f43004adf9c.png">
 
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/81119854/207883661-e6860135-37db-4424-823a-0ad7bfd20bb5.png">
+
+- LEMBRANDO QUE, para funcionar a exibição acima, devemos colocar o campo Null Hunting como discreto (cor AZUL). 
