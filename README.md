@@ -1,6 +1,6 @@
 # Tableau Public
 
-This is a repository where I publish my studies with Tableau.
+This is a repository where I publish my studies with Tableau Public.
 
 This link is for the [Dashboard number 1](https://public.tableau.com/app/profile/lucas.quemelli/viz/Livro07_16707905911710/DashboardMedalhas?publish=yes).
 
