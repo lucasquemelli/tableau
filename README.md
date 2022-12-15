@@ -135,10 +135,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 - LEMBRANDO QUE, para funcionar a exibição acima, devemos colocar o campo Null Hunting como discreto (cor AZUL). 
 
-5. Agora criamos um campo calculado para identificar quando Null Hunting é de fato nulo. Em caso afirmativo, retorna VERDADEIRO. Do contrário, retorna FALSLO.
+5. Agora criamos um campo calculado para identificar quando Null Hunting é de fato nulo. Em caso afirmativo, retorna VERDADEIRO. Do contrário, retorna FALSO.
 
 <img width="871" alt="image" src="https://user-images.githubusercontent.com/81119854/207885079-e0028a2f-b639-4fd6-94ac-9b49c3b19513.png">
 
 <img width="803" alt="image" src="https://user-images.githubusercontent.com/81119854/207885159-20505eab-1204-428f-8d9a-3b78df715e78.png">
-
-<img width="697" alt="image" src="https://user-images.githubusercontent.com/81119854/207883537-787b14eb-4269-49c9-8609-6f43004adf9c.png">
