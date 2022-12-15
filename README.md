@@ -119,8 +119,12 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="883" alt="image" src="https://user-images.githubusercontent.com/81119854/207878590-98e3f1fc-d718-422f-80a6-29f692a621c0.png">
 
-- Assim, conseguimos identificar se o SEGUNDO elemento se trata de um número realmente (como esperado).
+- Assim, conseguimos identificar se o SEGUNDO elemento de DX se trata de um número realmente (como esperado).
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/81119854/207879561-61fa8fd7-1de7-40e9-9fdc-0d0747cf916b.png">
 
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/81119854/207881788-a367d33b-0095-4a34-b66f-567f5eaa254a.png">
+
+- Para tanto, criamos uma fórmula que busca o segundo elemento de uma cadeia de caracteres e exibe ele (comprimento 1). Depois, convertemos esse valor para inteiro. Se o resultado for verdadeiro, então a fórmula retorna um número. Se for falso, então retorna NULO. 
+
+<img width="876" alt="image" src="https://user-images.githubusercontent.com/81119854/207882092-a8a8777a-ccc7-459c-84e9-2e98e624b3c0.png">
