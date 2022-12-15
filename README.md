@@ -100,3 +100,13 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Ao carregar a planilha .csv no Tableau, o Tableau pode interpretador o separador de texto como sendo o carcter espaço, daí ele separa as informações em mais de uma coluna. Contudo, queremos apenas a coluna Diagnosis.
 
 <img width="1519" alt="image" src="https://user-images.githubusercontent.com/81119854/207873527-fd033710-39e8-4d52-8e2e-1cc543d6a615.png">
+
+- Para corrigir, seguimos a sequência de passos:
+
+1. Propriedades de arquivo de texto.
+
+<img width="1003" alt="image" src="https://user-images.githubusercontent.com/81119854/207874624-4e7a5c29-3f3d-4cd4-b128-efdfdeeccf8f.png">
+
+2. Selecionar separador igual a Tab ou Guia (mesma coisa).
+
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/81119854/207875426-7f445d96-bb74-410a-8185-e0ab34f213ca.png">
