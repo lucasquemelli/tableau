@@ -128,3 +128,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Para tanto, criamos uma fórmula que busca o segundo elemento de uma cadeia de caracteres e exibe ele (comprimento 1). Depois, convertemos esse valor para inteiro. Se o resultado for verdadeiro, então a fórmula retorna um número. Se for falso, então retorna NULO. 
 
 <img width="876" alt="image" src="https://user-images.githubusercontent.com/81119854/207882092-a8a8777a-ccc7-459c-84e9-2e98e624b3c0.png">
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/81119854/207883537-787b14eb-4269-49c9-8609-6f43004adf9c.png">
+
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/81119854/207883661-e6860135-37db-4424-823a-0ad7bfd20bb5.png">
