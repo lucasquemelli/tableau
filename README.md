@@ -110,3 +110,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 2. Selecionar separador igual a Tab ou Guia (mesma coisa).
 
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/81119854/207875426-7f445d96-bb74-410a-8185-e0ab34f213ca.png">
+
+3. Resultado: dados em uma coluna.
+
+<img width="1524" alt="image" src="https://user-images.githubusercontent.com/81119854/207875698-c8c563bc-596c-490e-83c7-c57721cd2bfe.png">
+
