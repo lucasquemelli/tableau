@@ -96,3 +96,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Abaixo, na coluna "Diagnosis", queremos apenas o código e o diagnóstico do paciente. O restante é sujeira. 
 
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/81119854/207872936-27957ba1-eca2-4891-8949-692b2224a50d.png">
+
+- Ao carregar a planilha .csv no Tableau, o Tableau separa as informações em mais de uma coluna. Queremos apenas a coluna Diagnosis.
+
+<img width="1519" alt="image" src="https://user-images.githubusercontent.com/81119854/207873527-fd033710-39e8-4d52-8e2e-1cc543d6a615.png">
