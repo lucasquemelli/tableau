@@ -140,3 +140,9 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="871" alt="image" src="https://user-images.githubusercontent.com/81119854/207885079-e0028a2f-b639-4fd6-94ac-9b49c3b19513.png">
 
 <img width="803" alt="image" src="https://user-images.githubusercontent.com/81119854/207885159-20505eab-1204-428f-8d9a-3b78df715e78.png">
+
+6. Para excluir os valores nulos, levamos a variável Exclude NULL para o campo de filtro e selecionamos apenas os campos FALSO.
+
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/81119854/207886002-e23ec9a1-2a64-4000-8932-a67ef16d6d1a.png">
+
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/81119854/207886078-eb7c6e2a-bca1-46d1-8d45-dedb4f1939de.png">
