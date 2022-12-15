@@ -90,3 +90,9 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Resultado:
 
 <img width="1580" alt="image" src="https://user-images.githubusercontent.com/81119854/207711325-532116cc-1af6-43e3-b816-401ceceb58fa.png">
+
+# Separação de texto
+
+- Abaixo, na coluna "Diagnosis", queremos apenas o código e o diagnóstico do paciente. O restante é sujeira. 
+
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/81119854/207872936-27957ba1-eca2-4891-8949-692b2224a50d.png">
