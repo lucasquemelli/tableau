@@ -152,3 +152,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="875" alt="image" src="https://user-images.githubusercontent.com/81119854/207887012-ffbc175e-b5ad-42d0-baa4-1f609d0524e8.png">
 
 <img width="1445" alt="image" src="https://user-images.githubusercontent.com/81119854/207887464-026d2d2a-5381-45b9-9632-8563f221c76f.png">
+
+8. Resultado:
+
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/81119854/207887969-ca748d52-08ed-4e5d-9fbb-5e6fd01d059a.png">
