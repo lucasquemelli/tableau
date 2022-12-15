@@ -121,4 +121,4 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 - Assim, conseguimos identificar se o primeiro elemento se trata de um número realmente (como esperado).
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/81119854/207878356-6953a87b-257a-42cc-953d-bf417473d437.png">
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/81119854/207879561-61fa8fd7-1de7-40e9-9fdc-0d0747cf916b.png">
