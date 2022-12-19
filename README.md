@@ -204,9 +204,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/81119854/208548973-0557feec-a5e1-4a4a-9067-7f75d30ab133.png">
 
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/81119854/208548986-07ee3808-a54e-45c4-bcb8-4cfbb660582f.png">
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/81119854/208549466-2e599ba4-9170-4876-aaab-8d64c9873249.png">
 
 - Quando usamos LOOKUP para diferença de dias, o resultado final oculta linhas da tabela, mas não exclui. Quando usamos apenas a função MAX, o filtro exclui linhas da tabela e calcula um novo total (que está errado): 
 
-<img width="727" alt="image" src="https://user-images.githubusercontent.com/81119854/208549159-639a3de6-0ac1-4677-9d28-5b6e4a398bca.png">
-
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/81119854/208549501-3eee4b33-80f8-4cf5-8e5b-53652babafba.png">
