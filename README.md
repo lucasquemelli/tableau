@@ -185,3 +185,15 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/81119854/208541483-0ea3fc21-3a66-4eb3-9e3a-4c17ee15ea90.png">
 
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/81119854/208541527-3415bdc8-114d-4f7d-b978-a8a5b704e3b1.png">
+
+- Agora vamos calcular o percentual de vendas de cada cliente por dia em relação ao total:
+
+<img width="889" alt="image" src="https://user-images.githubusercontent.com/81119854/208542128-d3c09a6d-8a56-4530-bc68-dda02d9ab2dd.png">
+
+- Antes de exibir os valores, precisamos alterar o tipo da variável percentual:
+
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/81119854/208542232-50a54068-e1f6-47ee-9a35-fb2b6bb43b72.png">
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/81119854/208542294-7cf53ad0-99b1-4e92-9734-ed04ec0f3938.png">
+
+<img width="1258" alt="image" src="https://user-images.githubusercontent.com/81119854/208542385-b3a624b9-ff96-4613-b0a0-f03a09b9c958.png">
