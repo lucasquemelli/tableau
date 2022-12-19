@@ -170,3 +170,10 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1369" alt="image" src="https://user-images.githubusercontent.com/81119854/207933551-a9166b87-be21-44c9-a529-136dfbcd7bd5.png">
 
+# Relacionamento entre tabelas
+
+- Quando a gente arrasta uma tabela para próximo da outra, o Tableau sugere a relação automaticamente, a partir de um mesmo campo em comum entre as duas tabelas. 
+
+<img width="821" alt="image" src="https://user-images.githubusercontent.com/81119854/208437936-bfa4dea7-bd7a-44c4-ad77-2dbf188252d9.png">
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/81119854/208438081-b8addca8-b0e7-401d-bb44-3636562d6529.png">
