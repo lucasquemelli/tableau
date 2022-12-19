@@ -198,7 +198,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1258" alt="image" src="https://user-images.githubusercontent.com/81119854/208542385-b3a624b9-ff96-4613-b0a0-f03a09b9c958.png">
 
-- Se quisermos exibir o valor do percentual de vendas dos 2 últimos dias de dezembro em relação ao total de vendas, fazemos: (1) calculamos a diferença de dias em relação ao último dia de dezembro; (2) aplicamos um filtro em que a diferença seja 0 (31 de dezembro) ou 1 (30 de dezembro):
+- Se quisermos exibir o valor do percentual de vendas dos 2 últimos dias de dezembro em relação ao total de vendas, fazemos: (1) calculamos a diferença de dias em relação ao último dia de dezembro; (2) aplicamos um filtro em que a diferença seja 0 (31 de dezembro) a 1 (30 de dezembro):
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/81119854/208548925-1ee457d5-b8e2-489e-a9f9-4eda334ef83b.png">
 
