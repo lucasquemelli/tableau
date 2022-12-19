@@ -178,7 +178,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/81119854/208438081-b8addca8-b0e7-401d-bb44-3636562d6529.png">
 
-# Função TOTAL e cálculo a nível de tabela
+# Função TOTAL e LOOKUP com cálculo a nível de tabela
 
 - A partir da soma de vendas por clientes, conseguimos saber o valor total de vendas da tabela:
 
@@ -197,3 +197,16 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/81119854/208542294-7cf53ad0-99b1-4e92-9734-ed04ec0f3938.png">
 
 <img width="1258" alt="image" src="https://user-images.githubusercontent.com/81119854/208542385-b3a624b9-ff96-4613-b0a0-f03a09b9c958.png">
+
+- Se quisermos exibir o valor do percentual de vendas dos 2 últimos dias de dezembro em relação ao total de vendas, fazemos: (1) calculamos a diferença de dias em relação ao último dia de dezembro; (2) aplicamos um filtro em que a diferença seja 0 (31 de dezembro) ou 1 (30 de dezembro):
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/81119854/208548925-1ee457d5-b8e2-489e-a9f9-4eda334ef83b.png">
+
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/81119854/208548973-0557feec-a5e1-4a4a-9067-7f75d30ab133.png">
+
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/81119854/208548986-07ee3808-a54e-45c4-bcb8-4cfbb660582f.png">
+
+- Quando usamos LOOKUP para diferença de dias, o resultado final oculta linhas da tabela, mas não exclui. Quando usamos apenas a função MAX, o filtro exclui linhas da tabela e calcula um novo total (que está errado): 
+
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/81119854/208549159-639a3de6-0ac1-4677-9d28-5b6e4a398bca.png">
+
