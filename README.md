@@ -177,3 +177,11 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="821" alt="image" src="https://user-images.githubusercontent.com/81119854/208437936-bfa4dea7-bd7a-44c4-ad77-2dbf188252d9.png">
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/81119854/208438081-b8addca8-b0e7-401d-bb44-3636562d6529.png">
+
+# Função TOTAL e cálculo a nível de tabela
+
+- A partir da soma de vendas por clientes, conseguimos saber o valor total de vendas da tabela:
+
+<img width="863" alt="image" src="https://user-images.githubusercontent.com/81119854/208541483-0ea3fc21-3a66-4eb3-9e3a-4c17ee15ea90.png">
+
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/81119854/208541527-3415bdc8-114d-4f7d-b978-a8a5b704e3b1.png">
