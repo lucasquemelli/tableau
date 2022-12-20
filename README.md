@@ -211,3 +211,19 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Quando usamos LOOKUP para diferença de dias, o resultado final oculta linhas da tabela, mas não exclui. Quando usamos apenas a função MAX, o filtro exclui linhas da tabela e calcula um novo total (que está errado): 
 
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/81119854/208549501-3eee4b33-80f8-4cf5-8e5b-53652babafba.png">
+
+# Função PREVIOUS (TABLE-CALCULATION-LEVEL)
+
+- Vamos definir o orçamento como sendo 5% maior a cada ano a partir de 2017. Usando PREVIOUS:
+
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/81119854/208674883-acaf6c25-488a-480e-a478-2f4e2b47ebfb.png">
+
+- Usando LOOKUP:
+
+<img width="872" alt="image" src="https://user-images.githubusercontent.com/81119854/208675017-5928a090-f00c-42c7-949f-5eee33976196.png">
+
+- Resultado:
+
+<img width="665" alt="image" src="https://user-images.githubusercontent.com/81119854/208675087-0f2ff267-0e4f-4bcf-bddc-059c9a056bf7.png">
+
+- (1) PREVIOUS pega o primeiro valor (ano de 2017) de vendas e depois faz o cálculo em cima das linhas anteriores do orçamento. Esse tipo de cálculo pode ser usado como projeção do orçamento a longo prazo. (2) Usando LOOKUP, o cálculo é feito em cima de cada linha de vendas. Esse cálculo pode ser usado como cálculo de curto prazo. 
