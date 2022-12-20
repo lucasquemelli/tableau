@@ -180,6 +180,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 # Função TOTAL e LOOKUP com cálculo a nível de tabela
 
+- Uma função TABLE-CALCULATION-LEVEL sempre tem que usar uma função AGGREGATE-CALCULATION-LEVEL na sua fórmula. 
+
 - A partir da soma de vendas por clientes, conseguimos saber o valor total de vendas da tabela:
 
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/81119854/208541483-0ea3fc21-3a66-4eb3-9e3a-4c17ee15ea90.png">
