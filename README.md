@@ -267,3 +267,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/81119854/208694526-0b790ff3-7da1-4412-bd6e-521b84e58fc6.png">
 
 <img width="1562" alt="image" src="https://user-images.githubusercontent.com/81119854/208694571-7ca9717e-50c1-4e21-b5a1-77451bb2bcb4.png">
+
+# Sintaxe IF no Tableau
+
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/81119854/208736234-cf06aa90-73c1-479e-a5ad-d17b7b03cde1.png">
