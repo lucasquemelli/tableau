@@ -270,4 +270,4 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 # Sintaxe IF no Tableau
 
-<img width="778" alt="image" src="https://user-images.githubusercontent.com/81119854/208736234-cf06aa90-73c1-479e-a5ad-d17b7b03cde1.png">
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/81119854/208736497-189aab46-eb3a-43f3-8b97-c90ab1360c7e.png">
