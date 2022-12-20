@@ -227,3 +227,17 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="665" alt="image" src="https://user-images.githubusercontent.com/81119854/208675087-0f2ff267-0e4f-4bcf-bddc-059c9a056bf7.png">
 
 - (1) PREVIOUS pega o primeiro valor (ano de 2017) de vendas e depois faz o cálculo em cima das linhas anteriores do orçamento. Esse tipo de cálculo pode ser usado como projeção do orçamento a longo prazo. (2) Usando LOOKUP, o cálculo é feito em cima de cada linha de vendas. Esse cálculo pode ser usado como cálculo de curto prazo. 
+
+# Função RUNNING
+
+- Vamos aplicar as funções RUNNING_MIN, RUNNING_MAX e RUNNING_AVG em cima do total de vendas. 
+
+<img width="868" alt="image" src="https://user-images.githubusercontent.com/81119854/208682754-bafd26fc-6708-4037-bdf3-2aefa99b5400.png">
+
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/81119854/208682847-efd4019e-f0ec-4123-8ca1-a4c5c4e61b51.png">
+
+<img width="864" alt="image" src="https://user-images.githubusercontent.com/81119854/208682939-6d29eec8-893f-49ce-ac43-b9f7c1d3fe4c.png">
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/81119854/208683008-e3223db8-aff3-412b-a2bd-aeacc5e6a713.png">
+
+- Cada linha da tabela acima considera os valores de vendas de todas as linhas anteriores. A primeira linha retorna o valor da primeira linha. 
