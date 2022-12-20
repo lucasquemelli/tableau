@@ -289,3 +289,5 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Se colocarmos o campo Teste da Posição como filtro, podemos filtrar apenas os verdadeiros, ou seja, o primeiro e o último dia de compra para o produto mais vendido da nossa base de dados. 
 
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/81119854/208747291-b8420b4d-530b-4275-b15e-12d2e214ef57.png">
+
+<img width="1038" alt="image" src="https://user-images.githubusercontent.com/81119854/208747378-efa67a0c-74f1-4682-aab7-14e05c0ad1ed.png">
