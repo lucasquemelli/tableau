@@ -240,4 +240,4 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="733" alt="image" src="https://user-images.githubusercontent.com/81119854/208683008-e3223db8-aff3-412b-a2bd-aeacc5e6a713.png">
 
-- Cada linha da tabela acima considera os valores de vendas de todas as linhas anteriores. A primeira linha retorna o valor da primeira linha. 
+- Cada linha com a função RUNNING aplicada na tabela acima considera os valores de vendas de todas as linhas anteriores. A primeira linha retorna o valor da primeira linha. 
