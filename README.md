@@ -243,5 +243,3 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Cada linha com a função RUNNING aplicada na tabela acima considera os valores de vendas de todas as linhas anteriores. A primeira linha retorna o valor da primeira linha. 
 
 <img width="1249" alt="image" src="https://user-images.githubusercontent.com/81119854/208685430-fb05baba-6290-43e8-be1f-fa401f41b578.png">
-
-<img width="1556" alt="image" src="https://user-images.githubusercontent.com/81119854/206909716-aa0daa63-38d7-4cfd-bc4a-8e8d66e7610c.png">
