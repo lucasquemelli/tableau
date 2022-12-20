@@ -274,6 +274,8 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 # Funções FIRST e LAST
 
+- Identificam o primeiro e o último valor de uma sequência. Pelo FIRST, o primeiro valor é 0 e diminui sequencialmente. Pelo LAST, o último valor é 0 e aumenta sequencialmente.
+
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/81119854/208744328-355afb71-1c1f-49bc-a429-086fdd438f82.png">
 
 <img width="859" alt="image" src="https://user-images.githubusercontent.com/81119854/208744382-1c6c6a3f-d09d-4566-92ff-c1b9fe15b5e1.png">
@@ -283,3 +285,4 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/81119854/208744992-9fba2809-57ad-4280-a20b-df0bf91831a1.png">
 
 <img width="821" alt="image" src="https://user-images.githubusercontent.com/81119854/208746044-45fd2f91-9566-4d04-9ad0-e6b90b591c54.png">
+
