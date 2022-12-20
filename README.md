@@ -243,3 +243,21 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Cada linha com a função RUNNING aplicada na tabela acima considera os valores de vendas de todas as linhas anteriores. A primeira linha retorna o valor da primeira linha. 
 
 <img width="1249" alt="image" src="https://user-images.githubusercontent.com/81119854/208685430-fb05baba-6290-43e8-be1f-fa401f41b578.png">
+
+# Função WINDOW (WINDOW AVG ou média móvel)
+
+- Média móvel dos últimos 14 dias:
+
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/81119854/208693094-e0b644af-0cf2-4b18-a04e-c13ecca940f4.png">
+
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/81119854/208693248-77967084-8eb4-44ea-8e71-6ed0d109b1e2.png">
+
+<img width="1245" alt="image" src="https://user-images.githubusercontent.com/81119854/208693904-db6f8b3d-7715-4fa4-93a2-7faf398fe243.png">
+
+- Para pegar a média móvel, usamos o filtro e escolhemos:
+
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/81119854/208694031-edaea89a-b832-4a24-96fb-4f71c87b34e8.png">
+
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/81119854/208694135-68e66d1a-aef9-4642-9606-6f878a9e0972.png">
+
+<img width="1419" alt="image" src="https://user-images.githubusercontent.com/81119854/208694180-60d1131f-236d-49ad-95fc-74e0df4e365c.png">
