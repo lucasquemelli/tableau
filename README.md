@@ -261,3 +261,9 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/81119854/208694135-68e66d1a-aef9-4642-9606-6f878a9e0972.png">
 
 <img width="1419" alt="image" src="https://user-images.githubusercontent.com/81119854/208694180-60d1131f-236d-49ad-95fc-74e0df4e365c.png">
+
+- Inverter a ordem dos valores das medidas:
+
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/81119854/208694526-0b790ff3-7da1-4412-bd6e-521b84e58fc6.png">
+
+<img width="1562" alt="image" src="https://user-images.githubusercontent.com/81119854/208694571-7ca9717e-50c1-4e21-b5a1-77451bb2bcb4.png">
