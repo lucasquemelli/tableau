@@ -319,3 +319,39 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Resultado: Califórnia e Texas.
 
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/81119854/208972998-3cab5c93-1166-461d-b98d-4eeb58a431a4.png">
+
+# Função RANK
+
+- Vamos apresentar os três maiores valores de venda de produtos de cada região. 
+
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/81119854/208981934-d077bcd0-fbeb-4b90-a33a-0e0c40817455.png">
+
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/81119854/208982229-7f160983-5547-4708-9c67-06ddee85728a.png">
+
+- Adicionamos o campo Rank como linha e mudamos seu tipo para discreto:
+
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/81119854/208982403-23b46dcf-ff47-4f6d-b9a6-7689b3cff099.png">
+
+- Mudamos sua ordem para ficar na frente do nome do produto: 
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/81119854/208982502-c28cd270-ca99-4b3a-9482-5b5c6b3ea9c3.png">
+
+- Temos que classificar o nome do produto de forma decrescente em relação à soma de vendas:
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/81119854/208982747-85b4c1b3-9a8d-46f8-b2a3-76d02df9ef63.png">
+
+- Escolhemos uma barra para visualização: 
+
+<img width="1225" alt="image" src="https://user-images.githubusercontent.com/81119854/208983404-8b07eb50-d916-4f7e-bfbd-1eb65c40d773.png">
+
+- Escolhemos o campo Rank como filtro. Depois escolhemos o cálculo usando o nome do produto: 
+
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/81119854/208983584-b25d6ee3-370d-4b65-8c57-c5ded92571de.png">
+
+- Na sequência, escolhemos apenas as três primeiras posições do rank: 
+
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/81119854/208983783-2c6324f1-d0ed-4f6d-b576-def7b7887fc8.png">
+
+<img width="1403" alt="image" src="https://user-images.githubusercontent.com/81119854/208984137-2efa1117-f044-4e7f-94a8-1d56c10197ec.png">
+
+- Lembrar de rankear em relação ao nome do produto (cálculo usando). 
