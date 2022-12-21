@@ -291,3 +291,31 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/81119854/208747291-b8420b4d-530b-4275-b15e-12d2e214ef57.png">
 
 <img width="1038" alt="image" src="https://user-images.githubusercontent.com/81119854/208747378-efa67a0c-74f1-4682-aab7-14e05c0ad1ed.png">
+
+# Função INDEX
+
+- Precisamos identificar os estados que possuem mais de 50 códigos postais diferentes. 
+
+<img width="882" alt="image" src="https://user-images.githubusercontent.com/81119854/208972000-1274c106-e983-441c-9f8b-9fe9d51c8b51.png">
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/81119854/208972102-dd0c8542-6bf0-4199-86f3-598595092aa9.png">
+
+- Mudamos o cálculo do índice para enumerar pelo código postal:
+
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/81119854/208972237-b6c645a7-2344-42b2-92bd-51f857f8bfa7.png">
+
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/81119854/208972281-60800026-68a4-4e65-8515-b4d5780e777d.png">
+
+- Agora criamos um filtro com índice. Clicamos em OK. É o filtro que queremos.
+
+<img width="1054" alt="image" src="https://user-images.githubusercontent.com/81119854/208972604-bdfb26cc-d3f7-4569-9e2d-53e37a38e5b5.png">
+
+- Contudo, o cálculo desse filtro também deve ser feito usando o código postal. Nesse caso, estados com mais de 50 códigos postais, ou seja, com índice acima de 50.
+
+<img width="518" alt="image" src="https://user-images.githubusercontent.com/81119854/208972837-32b8c75b-70a9-4ad9-b603-80960e792c1c.png">
+
+<img width="987" alt="image" src="https://user-images.githubusercontent.com/81119854/208972927-492e536e-35c3-40ff-8ff1-e92566d66d80.png">
+
+- Resultado: Califórnia e Texas.
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/81119854/208972998-3cab5c93-1166-461d-b98d-4eeb58a431a4.png">
