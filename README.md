@@ -392,7 +392,7 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/81119854/209026853-e63aa99a-80bf-4b2f-93ae-1fbdabe4a627.png">
 
-# Direção de cálculo de uma tabela
+# Cálculo direcional de linhas
 
 <img width="668" alt="image" src="https://user-images.githubusercontent.com/81119854/209149900-ae79180e-f8ca-4f63-a051-bc339ea8396e.png">
 
@@ -403,4 +403,26 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/81119854/209150204-c66a7824-52dc-4c64-a90f-0f819c5054bc.png">
 
 <img width="895" alt="image" src="https://user-images.githubusercontent.com/81119854/209150326-fa492c57-ec2b-463a-a45f-aec612334e70.png">
+
+# Cálculo direcional de linhas e colunas
+
+- Arrastamos para colunas o campo segmentos: 
+
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/81119854/209155720-0884f207-6839-4152-b6a9-18f2abee3f0b.png">
+
+- Combinações:
+
+<img width="1039" alt="image" src="https://user-images.githubusercontent.com/81119854/209156203-d70f63cb-0d39-499c-9754-5c91fd9a2a29.png">
+
+<img width="1010" alt="image" src="https://user-images.githubusercontent.com/81119854/209156281-39900fea-06f0-44c0-a80d-ab8ce94b02ee.png">
+
+<img width="1019" alt="image" src="https://user-images.githubusercontent.com/81119854/209156377-848b19c1-cfbc-44aa-a0a7-b3cdf6714fe9.png">
+
+<img width="1017" alt="image" src="https://user-images.githubusercontent.com/81119854/209156450-25b6f5ca-45a5-4587-bac9-dcdfc4427576.png">
+
+<img width="1006" alt="image" src="https://user-images.githubusercontent.com/81119854/209156548-b091b767-0fcd-4555-9321-d24c0f7ffcdf.png">
+
+<img width="1007" alt="image" src="https://user-images.githubusercontent.com/81119854/209156782-63abb08e-16e6-4a88-af1c-ddc5b044b31f.png">
+
+<img width="1007" alt="image" src="https://user-images.githubusercontent.com/81119854/209156851-e292a46b-408f-4326-903e-50d2d60dc87a.png">
 
