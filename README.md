@@ -382,4 +382,6 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 - Mas queremos apenas os estados com 5 ou menos cidades. Criamos um filtro para no máximo 5 cidades:
 
-<img width="588" alt="image" src="https://user-images.githubusercontent.com/81119854/209026144-b70b899a-5ef5-4363-bc56-767d04f7a8b0.png">
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/81119854/209026492-33b3ef2d-f3ef-44e2-9608-86b381f192d6.png">
+
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/81119854/209026449-aad3caf1-4f2a-4f6c-a12d-1866f8f00321.png">
