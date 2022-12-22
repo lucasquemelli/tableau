@@ -380,8 +380,14 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="842" alt="image" src="https://user-images.githubusercontent.com/81119854/209026022-66ccad80-1fe5-465b-a0eb-ffdce632c78a.png">
 
-- Mas queremos apenas os estados com 5 ou menos cidades. Criamos um filtro para no máximo 5 cidades:
+- Mas queremos apenas os estados com 5 ou menos cidades. Estados que venderam para 5 ou menos cidades. Criamos um filtro para no máximo 5 cidades:
 
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/81119854/209026492-33b3ef2d-f3ef-44e2-9608-86b381f192d6.png">
 
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/81119854/209026534-f7934733-6647-4fd6-8852-70780513e6a5.png">
+
+- Lembrando que o contador de cidades deve estar a nível de cidade em marcas, filtro e como campo calculado. 
+
+- Não queremos ver cidade:
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/81119854/209026853-e63aa99a-80bf-4b2f-93ae-1fbdabe4a627.png">
