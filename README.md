@@ -391,3 +391,16 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - Não queremos ver cidade:
 
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/81119854/209026853-e63aa99a-80bf-4b2f-93ae-1fbdabe4a627.png">
+
+# Direção de cálculo de uma tabela
+
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/81119854/209149900-ae79180e-f8ca-4f63-a051-bc339ea8396e.png">
+
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/81119854/209150069-2c1d289c-3f13-467c-a1f9-0a68328cb2c3.png">
+
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/81119854/209150151-71ce2b54-dc6e-403b-a500-5fb00f0ca0ca.png">
+
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/81119854/209150204-c66a7824-52dc-4c64-a90f-0f819c5054bc.png">
+
+<img width="895" alt="image" src="https://user-images.githubusercontent.com/81119854/209150326-fa492c57-ec2b-463a-a45f-aec612334e70.png">
+
