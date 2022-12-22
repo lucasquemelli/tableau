@@ -355,3 +355,31 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="1403" alt="image" src="https://user-images.githubusercontent.com/81119854/208984137-2efa1117-f044-4e7f-94a8-1d56c10197ec.png">
 
 - Lembrar de rankear em relação ao nome do produto (cálculo usando). 
+
+# Função SIZE
+
+- Vamos identificar os estados com vendas para 5 ou menos cidades. 
+
+<img width="719" alt="image" src="https://user-images.githubusercontent.com/81119854/209023363-39681f43-fd88-4ac9-9b2b-61e231e239c9.png">
+
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/81119854/209023336-f6b22e48-56b6-43cf-88ef-d8503138df31.png">
+
+- Ao adicionarmos o campo size, ele retorna o número de linhas da tabela inteira:
+
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/81119854/209023508-013dfd97-33c2-4ae4-8640-602f4affa780.png">
+
+- Nós queremos o número de cidades. 
+
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/81119854/209025820-834b3c09-06bc-4587-812d-f74f2bd43dcc.png">
+
+- Nós queremos apenas que o valor do tamanho apareça uma única vez. Apenas na primeira linha:
+
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/81119854/209025947-8f8cc331-955a-45ac-9022-141c83c75aa8.png">
+
+<img width="858" alt="image" src="https://user-images.githubusercontent.com/81119854/209025981-4dee69be-392f-4c26-a14f-75d996502f00.png">
+
+<img width="842" alt="image" src="https://user-images.githubusercontent.com/81119854/209026022-66ccad80-1fe5-465b-a0eb-ffdce632c78a.png">
+
+- Mas queremos apenas os estados com 5 ou menos cidades. Criamos um filtro para no máximo 5 cidades:
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/81119854/209026144-b70b899a-5ef5-4363-bc56-767d04f7a8b0.png">
