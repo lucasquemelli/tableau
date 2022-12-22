@@ -456,3 +456,16 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/81119854/209195082-d9a47831-84de-4275-b7bd-719252c4310d.png">
 
+# Funções LoD (Level of Detail) 
+
+## FIXED
+
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/81119854/209199253-2deceedc-531d-4237-9b45-49cfa398b98c.png">
+
+- Agora vamos criar um campo FIXED de categoria para vendas:
+
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/81119854/209199799-2de6e52b-fe9d-4145-9301-419813f5278f.png">
+
+- O resultado exibido é o valor fixado dentro da categoria, ou seja, a soma de vendas pela categoria apenas, não incluindo o segmento:
+
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/81119854/209201008-4051ce33-60fd-421d-8ee5-d6e011159c86.png">
