@@ -443,3 +443,16 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="1131" alt="image" src="https://user-images.githubusercontent.com/81119854/209193633-46d092d5-a73b-4edb-8646-75ec3e07c41c.png">
 
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/81119854/209193697-14062fab-c64f-45db-b135-8e3e49d1feed.png">
+
+- Adicionando uma coluna, podemos ver o percentual por segmento: 
+
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/81119854/209194557-a75cbc9e-938e-4a65-8987-fa3add883e2b.png">
+
+- Vamos criar um novo campo calculado:
+
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/81119854/209194835-1d341397-dc10-47f0-bb07-177f01e57962.png">
+
+- Vamos olhar na direção tabela horizontal:
+
+<img width="1312" alt="image" src="https://user-images.githubusercontent.com/81119854/209195082-d9a47831-84de-4275-b7bd-719252c4310d.png">
+
