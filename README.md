@@ -426,3 +426,20 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1007" alt="image" src="https://user-images.githubusercontent.com/81119854/209156851-e292a46b-408f-4326-903e-50d2d60dc87a.png">
 
+# Praticando direção
+
+- Vamos criar o campo percentual de vendas direção 1.
+
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/81119854/209192587-91d911c0-0c19-47f7-bb7b-5b0b463f1afc.png">
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/81119854/209192868-d8767269-b7ff-4af7-be2e-8440c4ba33b7.png">
+
+- Vamos cruzar região com modo de envio. 
+
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/81119854/209193016-5ac81bc5-0592-4368-ab59-489c0484a2e6.png">
+
+- O percentual de vendas da tabela acima está relacionado com a tabela inteira. Para sabermos o percentual apenas do modo de envio dentro de cada região, primeiro criamos um novo campo (direção 2) e depois adicionamos esse campo na tabela a nível de painel.
+
+<img width="1131" alt="image" src="https://user-images.githubusercontent.com/81119854/209193633-46d092d5-a73b-4edb-8646-75ec3e07c41c.png">
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/81119854/209193697-14062fab-c64f-45db-b135-8e3e49d1feed.png">
