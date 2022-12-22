@@ -469,3 +469,13 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 - O resultado exibido é o valor fixado dentro da categoria, ou seja, a soma de vendas pela categoria apenas, não incluindo o segmento:
 
 <img width="728" alt="image" src="https://user-images.githubusercontent.com/81119854/209201008-4051ce33-60fd-421d-8ee5-d6e011159c86.png">
+
+## Praticando FIXED
+
+- Queremos saber a data da primeira e da última compra de cada cliente.
+
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/81119854/209205354-25e259d0-6d84-48e8-bc68-15157772a820.png">
+
+<img width="835" alt="image" src="https://user-images.githubusercontent.com/81119854/209205692-daea8a14-468c-478a-b64b-7155257f44f0.png">
+
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/81119854/209206434-1eada348-7921-46a8-9ff0-cf76701c1bc3.png">
