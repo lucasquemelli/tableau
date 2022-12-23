@@ -483,3 +483,12 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/81119854/209206908-0dc9e289-dcfe-454c-a180-9b7b548b2a00.png">
 
 <img width="973" alt="image" src="https://user-images.githubusercontent.com/81119854/209206970-630b0315-9d0d-4fc3-a5e8-71e0754b3037.png">
+
+# LoD: INCLUDE
+
+- Queremos saber (1) a venda média por região e (2) a venda média dos clientes por região. 
+
+<img width="841" alt="image" src="https://user-images.githubusercontent.com/81119854/209348651-38e7ecc3-8bc4-4ee0-bb77-2d1b96f43771.png">
+
+<img width="1533" alt="image" src="https://user-images.githubusercontent.com/81119854/209349166-d62bc354-e1a8-4955-a417-682bdaa707c7.png">
+
