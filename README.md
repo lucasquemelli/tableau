@@ -492,3 +492,15 @@ This link is for the [Dashboard number 1](https://public.tableau.com/app/profile
 
 <img width="1533" alt="image" src="https://user-images.githubusercontent.com/81119854/209349166-d62bc354-e1a8-4955-a417-682bdaa707c7.png">
 
+# LoD: EXCLUDE
+
+- Média de vendas por segmento e média de vendas excluindo o segmento:
+
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/81119854/209350993-8ab62ad2-40f5-44e3-8f3b-346ec3124858.png">
+
+<img width="1533" alt="image" src="https://user-images.githubusercontent.com/81119854/209351239-4ae19ade-c3d1-4bcb-8d09-fd93ce24f1fe.png">
+
+- Ou também: 
+
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/81119854/209351638-6b2d0bc9-e998-4d12-9e88-35cf21bfae5a.png">
+
